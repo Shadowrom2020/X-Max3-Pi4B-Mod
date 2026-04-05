@@ -7,3 +7,6 @@ You need:
 - A Raspberry Pi 4B
 - 3 USB-A to USB-C cables of approximately 50cm length
 - A Step down power converter 24V -> 5V 3A [like this for example](https://www.berrybase.de/netzteilmodul-6-40v-5v-3a-mit-2x-usb-ausgang)
+- 2 female usb-c breakout boards
+- Some cables (0.5mm² Red and Black)
+- Some Crimp cable shoes
