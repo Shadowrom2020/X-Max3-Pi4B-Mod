@@ -2,9 +2,14 @@
 A simple mod for the Qidi X-Max 3 to run on a Rasperry Pi 4B instead of the weak RK3328 SoC
 
 # DISCLAIMER
-This is a simple mod, for people with knowledge about electronics. Do not try this if you're uncertain of your skills in this area!
 
-This project is provided "as is", without any express or implied warranty, including without limitation any warranty of merchantability, fitness for a particular purpose, or non-infringement. By following these instructions or using any files in this repository, you accept full responsibility for the work and all associated risks. I will not be liable for any damage to your printer, Raspberry Pi, other hardware, property, data, or for any other loss resulting from the use of this mod.
+**WARNING:** This modification requires knowledge of electronics and embedded systems. Do not attempt this procedure if you are not confident in your technical abilities.
+
+**NO WARRANTY.** The information, instructions, files, and materials in this repository are provided "as is" and without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+**LIMITATION OF LIABILITY.** To the fullest extent permitted by applicable law, the author shall not be liable for any direct, indirect, incidental, special, exemplary, or consequential damages whatsoever (including, but not limited to, damage to or destruction of hardware, loss of data, loss of revenue, or business interruption) arising out of or in connection with the use of, or inability to use, the information or materials in this repository, even if the author has been advised of the possibility of such damages.
+
+**ASSUMPTION OF RISK.** By proceeding with this modification, you acknowledge that you have read and understood this disclaimer, that you are undertaking the modification entirely at your own risk, and that you assume sole responsibility for any and all consequences, including hardware damage, that may result.
 
 ## Prerequisites
 You need:
