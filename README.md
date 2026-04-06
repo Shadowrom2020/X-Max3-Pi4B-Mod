@@ -19,7 +19,7 @@ You need:
 - A Step down power converter 24V -> 5V 3A [like this for example](https://www.berrybase.de/netzteilmodul-6-40v-5v-3a-mit-2x-usb-ausgang)
 - 1 female USB C breakout board
 - 1 male USB A breakout board
-- 2 male USB C breakout boards
+- 1 male USB C breakout board
 - Some cables (0.5mm² e.g.: red, black, white, blue)
 - 2 cable shoes (ring or the open variant)
 - 4 Breadboard connection cables (as short as possible) female to male for the serial port connection to the stock screen
