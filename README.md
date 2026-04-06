@@ -1,7 +1,7 @@
 # X-Max3-Pi4B-Mod
 A simple mod for the Qidi X-Max 3 to run on a Rasperry Pi 4B instead of the weak RK3328 SoC
 
-# DISCLAIMER
+# DISCLAIMER :warning:
 
 **WARNING:** This modification requires knowledge of electronics and embedded systems. Do not attempt this procedure if you are not confident in your technical abilities.
 
