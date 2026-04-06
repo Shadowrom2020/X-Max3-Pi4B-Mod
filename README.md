@@ -69,7 +69,9 @@ So grab the USB breakout boards and build one:
 - Start the printer
 - Now you should see two devices in /dev/serial/by-id/ one is the THR the other is the Motherboard
 ![devices](img/devices.png)
-- Install FreeDi to make the screen works [FreeDi](https://github.com/Phil1988/FreeDi). When prompted if you're using the stock mainboard, chose no!
+- Install FreeDi to make the screen works [FreeDi](https://github.com/Phil1988/FreeDi).
+  Clone the repository and run: FreeDi/install.sh
+  When prompted if you're using the stock mainboard, chose no!
 - Edit the FreeDi.cfg and set the Serial Port to /dev/ttyS0
 - Reboot the system and complete the FreeDi wizard, this will add a base config for the printer
 - Edit printer.cfg and change the serial port of the MCU to the new serial port
